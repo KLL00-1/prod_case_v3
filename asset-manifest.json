@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3089ead8.css",
-    "main.js": "/static/js/main.8e7e3271.js",
+    "main.css": "/static/css/main.192f4223.css",
+    "main.js": "/static/js/main.03026dd2.js",
     "static/js/453.91866859.chunk.js": "/static/js/453.91866859.chunk.js",
     "static/media/room.png": "/static/media/room.1b3be34eaa6716d9cd39.png",
     "static/media/IPSS до_page-0001.jpg": "/static/media/IPSS до_page-0001.a0809e6ad69789079877.jpg",
+    "static/media/IPSS после_page-0001.jpg": "/static/media/IPSS после_page-0001.11775cf2707b3ce39124.jpg",
     "static/media/ПСА до_page-0001.jpg": "/static/media/ПСА до_page-0001.c29373f4a546fc0010b4.jpg",
+    "static/media/ПСА после_page-0001.jpg": "/static/media/ПСА после_page-0001.e64d30efffc8fb3b4768.jpg",
     "static/media/узи_остаточной_мочи_до.jpg": "/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
+    "static/media/трузи_после.jpg": "/static/media/трузи_после.330258a2cc19e2e28177.jpg",
+    "static/media/узи_остаточной_мочи_после.jpg": "/static/media/узи_остаточной_мочи_после.dfba20b3588a71806886.jpg",
+    "static/media/Урофлоу после_page-0001.jpg": "/static/media/Урофлоу после_page-0001.e8d6c520cb2c1df12bbb.jpg",
     "static/media/Урофлоу до_page-0001.jpg": "/static/media/Урофлоу до_page-0001.01315098420981cc575d.jpg",
     "static/media/patient_old-2.png": "/static/media/patient_old-2.dc9cad0db5dc6a063ec4.png",
     "static/media/default-doctor.png": "/static/media/default-doctor.a8a8ad471b5483619381.png",
@@ -15,12 +20,12 @@
     "static/media/treatment.png": "/static/media/treatment.696c702f6a64a48a9506.png",
     "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
     "index.html": "/index.html",
-    "main.3089ead8.css.map": "/static/css/main.3089ead8.css.map",
-    "main.8e7e3271.js.map": "/static/js/main.8e7e3271.js.map",
+    "main.192f4223.css.map": "/static/css/main.192f4223.css.map",
+    "main.03026dd2.js.map": "/static/js/main.03026dd2.js.map",
     "453.91866859.chunk.js.map": "/static/js/453.91866859.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3089ead8.css",
-    "static/js/main.8e7e3271.js"
+    "static/css/main.192f4223.css",
+    "static/js/main.03026dd2.js"
   ]
 }
