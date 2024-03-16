@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3089ead8.css",
-    "main.js": "/static/js/main.a311ae7d.js",
+    "main.js": "/static/js/main.8e7e3271.js",
     "static/js/453.91866859.chunk.js": "/static/js/453.91866859.chunk.js",
     "static/media/room.png": "/static/media/room.1b3be34eaa6716d9cd39.png",
     "static/media/IPSS до_page-0001.jpg": "/static/media/IPSS до_page-0001.a0809e6ad69789079877.jpg",
     "static/media/ПСА до_page-0001.jpg": "/static/media/ПСА до_page-0001.c29373f4a546fc0010b4.jpg",
     "static/media/узи_остаточной_мочи_до.jpg": "/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
     "static/media/Урофлоу до_page-0001.jpg": "/static/media/Урофлоу до_page-0001.01315098420981cc575d.jpg",
-    "static/media/default-patient.png": "/static/media/default-patient.afb646f6fa1c1b010e5e.png",
+    "static/media/patient_old-2.png": "/static/media/patient_old-2.dc9cad0db5dc6a063ec4.png",
     "static/media/default-doctor.png": "/static/media/default-doctor.a8a8ad471b5483619381.png",
     "static/media/трузи_до.jpg": "/static/media/трузи_до.70e22441d08000dfb23b.jpg",
     "static/media/eye.png": "/static/media/eye.8ec8f84219fa8d271d7e.png",
@@ -16,11 +16,11 @@
     "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
     "index.html": "/index.html",
     "main.3089ead8.css.map": "/static/css/main.3089ead8.css.map",
-    "main.a311ae7d.js.map": "/static/js/main.a311ae7d.js.map",
+    "main.8e7e3271.js.map": "/static/js/main.8e7e3271.js.map",
     "453.91866859.chunk.js.map": "/static/js/453.91866859.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3089ead8.css",
-    "static/js/main.a311ae7d.js"
+    "static/js/main.8e7e3271.js"
   ]
 }
