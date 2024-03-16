@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffb783d1.css",
+    "main.js": "/static/js/main.5265931f.js",
+    "static/js/453.91866859.chunk.js": "/static/js/453.91866859.chunk.js",
+    "static/media/room.png": "/static/media/room.1b3be34eaa6716d9cd39.png",
+    "static/media/IPSS до_page-0001.jpg": "/static/media/IPSS до_page-0001.a0809e6ad69789079877.jpg",
+    "static/media/ПСА до_page-0001.jpg": "/static/media/ПСА до_page-0001.c29373f4a546fc0010b4.jpg",
+    "static/media/узи_остаточной_мочи_до.jpg": "/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
+    "static/media/Урофлоу до_page-0001.jpg": "/static/media/Урофлоу до_page-0001.01315098420981cc575d.jpg",
+    "static/media/default-patient.png": "/static/media/default-patient.afb646f6fa1c1b010e5e.png",
+    "static/media/default-doctor.png": "/static/media/default-doctor.a8a8ad471b5483619381.png",
+    "static/media/трузи_до.jpg": "/static/media/трузи_до.70e22441d08000dfb23b.jpg",
+    "static/media/eye.png": "/static/media/eye.8ec8f84219fa8d271d7e.png",
+    "static/media/treatment.png": "/static/media/treatment.696c702f6a64a48a9506.png",
+    "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
+    "index.html": "/index.html",
+    "main.ffb783d1.css.map": "/static/css/main.ffb783d1.css.map",
+    "main.5265931f.js.map": "/static/js/main.5265931f.js.map",
+    "453.91866859.chunk.js.map": "/static/js/453.91866859.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb783d1.css",
+    "static/js/main.5265931f.js"
+  ]
+}
