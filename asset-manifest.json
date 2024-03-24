@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.282a2e2c.css",
-    "main.js": "/static/js/main.53e0b686.js",
+    "main.css": "/static/css/main.2b1c1b7a.css",
+    "main.js": "/static/js/main.abb258a9.js",
     "static/js/453.91866859.chunk.js": "/static/js/453.91866859.chunk.js",
-    "static/media/room.png": "/static/media/room.1b3be34eaa6716d9cd39.png",
-    "static/media/IPSS до_page-0001.jpg": "/static/media/IPSS до_page-0001.a0809e6ad69789079877.jpg",
-    "static/media/IPSS после_page-0001.jpg": "/static/media/IPSS после_page-0001.11775cf2707b3ce39124.jpg",
+    "static/media/room-2.png": "/static/media/room-2.10d9c537f91bd01ee237.png",
     "static/media/ПСА до_page-0001.jpg": "/static/media/ПСА до_page-0001.c29373f4a546fc0010b4.jpg",
     "static/media/ПСА после_page-0001.jpg": "/static/media/ПСА после_page-0001.e64d30efffc8fb3b4768.jpg",
+    "static/media/IPSS_до.png": "/static/media/IPSS_до.7431426c0b23ba9f1e24.png",
+    "static/media/IPSS_после.png": "/static/media/IPSS_после.50ed62e4d4f43b8f5ef9.png",
     "static/media/узи_остаточной_мочи_до.jpg": "/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
     "static/media/трузи_после.jpg": "/static/media/трузи_после.330258a2cc19e2e28177.jpg",
     "static/media/узи_остаточной_мочи_после.jpg": "/static/media/узи_остаточной_мочи_после.dfba20b3588a71806886.jpg",
+    "static/media/default-doctor-2.png": "/static/media/default-doctor-2.1127fd695723272354c2.png",
     "static/media/Урофлоу после_page-0001.jpg": "/static/media/Урофлоу после_page-0001.e8d6c520cb2c1df12bbb.jpg",
     "static/media/Урофлоу до_page-0001.jpg": "/static/media/Урофлоу до_page-0001.01315098420981cc575d.jpg",
-    "static/media/patient_old-2.png": "/static/media/patient_old-2.dc9cad0db5dc6a063ec4.png",
-    "static/media/default-doctor.png": "/static/media/default-doctor.a8a8ad471b5483619381.png",
+    "static/media/patient_old-3.png": "/static/media/patient_old-3.cf777e47d0b037694996.png",
     "static/media/трузи_до.jpg": "/static/media/трузи_до.70e22441d08000dfb23b.jpg",
     "static/media/eye.png": "/static/media/eye.8ec8f84219fa8d271d7e.png",
     "static/media/treatment.png": "/static/media/treatment.696c702f6a64a48a9506.png",
     "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
     "index.html": "/index.html",
-    "main.282a2e2c.css.map": "/static/css/main.282a2e2c.css.map",
-    "main.53e0b686.js.map": "/static/js/main.53e0b686.js.map",
+    "main.2b1c1b7a.css.map": "/static/css/main.2b1c1b7a.css.map",
+    "main.abb258a9.js.map": "/static/js/main.abb258a9.js.map",
     "453.91866859.chunk.js.map": "/static/js/453.91866859.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.282a2e2c.css",
-    "static/js/main.53e0b686.js"
+    "static/css/main.2b1c1b7a.css",
+    "static/js/main.abb258a9.js"
   ]
 }
