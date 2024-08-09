@@ -1,30 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.b976ad50.css",
-    "main.js": "/static/js/main.ec1b98fd.js",
+    "main.js": "/static/js/main.989498a3.js",
     "static/js/453.91866859.chunk.js": "/static/js/453.91866859.chunk.js",
-    "wp-content/themes/mega/case3/static/media/room-2.png": "/wp-content/themes/mega/case3/static/media/room-2.10d9c537f91bd01ee237.png",
-    "static/media/IPSS_до.png": "/wp-content/themes/mega/case3/static/media/IPSS_до.7431426c0b23ba9f1e24.png",
-    "static/media/ПСА до_page-0001.png": "/wp-content/themes/mega/case3/static/media/ПСА до_page-0001.304c4bf7f9dfff0ee698.png",
-    "static/media/IPSS_после.png": "/wp-content/themes/mega/case3/static/media/IPSS_после.50ed62e4d4f43b8f5ef9.png",
-    "static/media/узи_остаточной_мочи_до.jpg": "/wp-content/themes/mega/case3/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
-    "static/media/трузи_после.jpg": "/wp-content/themes/mega/case3/static/media/трузи_после.330258a2cc19e2e28177.jpg",
-    "static/media/узи_остаточной_мочи_после.jpg": "/wp-content/themes/mega/case3/static/media/узи_остаточной_мочи_после.dfba20b3588a71806886.jpg",
-    "static/media/default-doctor-2.png": "/wp-content/themes/mega/case3/static/media/default-doctor-2.1127fd695723272354c2.png",
-    "static/media/patient_old-3.png": "/wp-content/themes/mega/case3/static/media/patient_old-3.cf777e47d0b037694996.png",
-    "static/media/трузи_до.jpg": "/wp-content/themes/mega/case3/static/media/трузи_до.70e22441d08000dfb23b.jpg",
-    "static/media/Урофлоу после_page-0001.png": "/wp-content/themes/mega/case3/static/media/Урофлоу после_page-0001.0ae114ebc1c08197cc42.png",
-    "static/media/Урофлоу до_page-0001.png": "/wp-content/themes/mega/case3/static/media/Урофлоу до_page-0001.0016d667a274325c0fd9.png",
-    "static/media/eye.png": "/wp-content/themes/mega/case3/static/media/eye.8ec8f84219fa8d271d7e.png",
-    "static/media/treatment.png": "/wp-content/themes/mega/case3/static/media/treatment.696c702f6a64a48a9506.png",
-    "static/media/good.png": "/wp-content/themes/mega/case3/static/media/good.2d4bf3fc2fe7a4643495.png",
+    "static/media/IPSS_до.png": "/static/media/IPSS_до.7431426c0b23ba9f1e24.png",
+    "static/media/ПСА до_page-0001.png": "/static/media/ПСА до_page-0001.304c4bf7f9dfff0ee698.png",
+    "static/media/IPSS_после.png": "/static/media/IPSS_после.50ed62e4d4f43b8f5ef9.png",
+    "static/media/узи_остаточной_мочи_до.jpg": "/static/media/узи_остаточной_мочи_до.92d5a57b72852de7b762.jpg",
+    "static/media/трузи_после.jpg": "/static/media/трузи_после.330258a2cc19e2e28177.jpg",
+    "static/media/узи_остаточной_мочи_после.jpg": "/static/media/узи_остаточной_мочи_после.dfba20b3588a71806886.jpg",
+    "static/media/default-doctor-2.png": "/static/media/default-doctor-2.1127fd695723272354c2.png",
+    "static/media/patient_old-3.png": "/static/media/patient_old-3.cf777e47d0b037694996.png",
+    "static/media/трузи_до.jpg": "/static/media/трузи_до.70e22441d08000dfb23b.jpg",
+    "static/media/Урофлоу после_page-0001.png": "/static/media/Урофлоу после_page-0001.0ae114ebc1c08197cc42.png",
+    "static/media/Урофлоу до_page-0001.png": "/static/media/Урофлоу до_page-0001.0016d667a274325c0fd9.png",
+    "static/media/eye.png": "/static/media/eye.8ec8f84219fa8d271d7e.png",
+    "static/media/treatment.png": "/static/media/treatment.696c702f6a64a48a9506.png",
+    "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
     "index.html": "/index.html",
     "main.b976ad50.css.map": "/static/css/main.b976ad50.css.map",
-    "main.ec1b98fd.js.map": "/static/js/main.ec1b98fd.js.map",
+    "main.989498a3.js.map": "/static/js/main.989498a3.js.map",
     "453.91866859.chunk.js.map": "/static/js/453.91866859.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b976ad50.css",
-    "static/js/main.ec1b98fd.js"
+    "static/js/main.989498a3.js"
   ]
 }
